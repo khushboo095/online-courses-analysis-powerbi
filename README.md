@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![Online Courses Analysis Dashboard](./dashboard_preview.png)
+![Online Courses Analysis Dashboard](./Screenshot 2026-06-04 at 12.32.50.jpeg)
 
 </div>
 
