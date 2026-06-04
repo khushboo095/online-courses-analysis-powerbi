@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushboo%20Kumari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
-www.linkedin.com/in/khushboo-kumari-207249303)
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/khushboo-kumari-207249303)
 [![GitHub](https://img.shields.io/badge/GitHub-khushboo095-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushboo095)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
 
